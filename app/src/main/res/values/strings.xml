@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Track Location</string>
+    <string name="Track">Track</string>
+    <string name="get_Location">Get Location</string>
+</resources>
